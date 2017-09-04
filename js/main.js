@@ -1,4 +1,4 @@
-$('img').on('click', function(){
+$('.gallery img').on('click', function(){
   $(this).toggleClass('selected');
 });
 
